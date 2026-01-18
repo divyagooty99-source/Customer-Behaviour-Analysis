@@ -33,4 +33,3 @@ This project showcases an end-to-end data analytics solution, from raw data inge
 2. SQL Query Optimization
 3. Dashboard Design (Power BI)
 4. Business Insights & Reporting
-5. 
